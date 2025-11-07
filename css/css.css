@@ -107,3 +107,16 @@ h2{
     border-radius: 5px;
     cursor: pointer;
 }
+form{
+    width: 380px;
+}
+
+form input,
+form textarea{
+    width: 100%;
+    border: 1px solid #6dd432;
+    padding: 10px;
+    margin: 5px 0 10px 0;
+    /* superior direita inferior esquerda */
+    border-radius: 4px;
+}
