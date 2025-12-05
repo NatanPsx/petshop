@@ -120,7 +120,12 @@ form textarea{
     /* superior direita inferior esquerda */
     border-radius: 4px;
 }
-.footer{
+footer{
     background-color: #6dd432;
     text-align: center;
 }
+#insta{
+    width: 15px;
+    height: 15px;
+}
+
